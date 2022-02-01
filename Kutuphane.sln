@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kutuphane", "Kutuphane\Kutuphane.csproj", "{0053FD61-FF0E-4240-8425-A8272EF874F1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KutuphaneSetup", "KutuphaneSetup\KutuphaneSetup.vdproj", "{4A6771F9-7AAC-46A4-BA3B-86611E40F35F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0053FD61-FF0E-4240-8425-A8272EF874F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0053FD61-FF0E-4240-8425-A8272EF874F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0053FD61-FF0E-4240-8425-A8272EF874F1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0053FD61-FF0E-4240-8425-A8272EF874F1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0053FD61-FF0E-4240-8425-A8272EF874F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0053FD61-FF0E-4240-8425-A8272EF874F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0053FD61-FF0E-4240-8425-A8272EF874F1}.Release|x64.ActiveCfg = Release|Any CPU
+		{0053FD61-FF0E-4240-8425-A8272EF874F1}.Release|x86.ActiveCfg = Release|Any CPU
+		{4A6771F9-7AAC-46A4-BA3B-86611E40F35F}.Debug|Any CPU.ActiveCfg = Debug
+		{4A6771F9-7AAC-46A4-BA3B-86611E40F35F}.Debug|x64.ActiveCfg = Debug
+		{4A6771F9-7AAC-46A4-BA3B-86611E40F35F}.Debug|x64.Build.0 = Debug
+		{4A6771F9-7AAC-46A4-BA3B-86611E40F35F}.Debug|x86.ActiveCfg = Debug
+		{4A6771F9-7AAC-46A4-BA3B-86611E40F35F}.Debug|x86.Build.0 = Debug
+		{4A6771F9-7AAC-46A4-BA3B-86611E40F35F}.Release|Any CPU.ActiveCfg = Release
+		{4A6771F9-7AAC-46A4-BA3B-86611E40F35F}.Release|x64.ActiveCfg = Release
+		{4A6771F9-7AAC-46A4-BA3B-86611E40F35F}.Release|x64.Build.0 = Release
+		{4A6771F9-7AAC-46A4-BA3B-86611E40F35F}.Release|x86.ActiveCfg = Release
+		{4A6771F9-7AAC-46A4-BA3B-86611E40F35F}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48353951-A7FE-4095-863D-407815E4D86B}
+	EndGlobalSection
+EndGlobal
