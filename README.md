@@ -8,6 +8,7 @@ C# Windows Form Library Management System Application with Access Database & 3 T
 
 ## Application Details
 
+- Application Language:`Turkish`
 - 3 Tier Architecture
 - **Access** Database
 - Admin Login Form
